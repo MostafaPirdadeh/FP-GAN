@@ -1,2 +1,2 @@
-# FP-GAN
- a code for generate mri image with FP-GAN
+# GAN
+ a code for generate mri image with GAN
